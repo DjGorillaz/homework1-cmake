@@ -1,1 +1,1 @@
-homework1-cmake
+Travis CI example
